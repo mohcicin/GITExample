@@ -1,5 +1,7 @@
 <?php
 
-Echo "hello GIT";
+echo "hello GIT";
+
+echo "is me cicin";
 
 ?>
