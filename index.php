@@ -1,5 +1,5 @@
 <?php
 
-Echo "hello GIT");
+Echo "hello GIT";
 
 ?>
